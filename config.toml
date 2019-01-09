@@ -59,7 +59,7 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Zhejiang University", url = "" } ]
+  organizations = [ { name = "Zhejiang University", url = "http://www.zju.edu.cn/english/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -113,7 +113,7 @@ enableGitInfo = false
   description = ""
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = "aph-salt-spring-zoom.jpg"
+  sharing_image = "portrait.jpg"
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
   twitter = "TaoYANLogos"
