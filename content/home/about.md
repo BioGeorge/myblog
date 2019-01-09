@@ -12,9 +12,9 @@ weight = 5
   interests = [
     "Python&R Program",
     "Bioinformatics",
-    "Machine Learning"
+    "Machine Learning",
     "Data Science",
-    "Data Visualization"
+    "Data Visualization",
     "Open Source"
   ]
 
