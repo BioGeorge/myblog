@@ -49,8 +49,8 @@ enableGitInfo = false
 
 [params]
   # add github edit https://bookdown.org/yihui/blogdown/templates.html
-  GithubEdit = "https://github.com/YTLogos/myblog/edit/master/content"
-  GithubSource = "https://github.com/YTlogos/myblog/blob/master/content/"
+  GithubEdit = "https://github.com/YTLogos/myblog/edit/master/content/"
+  GithubSource = "https://github.com/YTLogos/myblog/blob/master/content/"
 
   # AUTHOR SETUP
   # Your details.
@@ -271,9 +271,9 @@ enableGitInfo = false
     link = "https://github.com/YTLogos"
 
   #[[params.social]]
-   # icon = "impactstory"
-    #icon_pack = "ai"
-    #link = "https://impactstory.org/u/0000-0002-8082-1890"
+  # icon = "impactstory"
+  #icon_pack = "ai"
+  #link = "https://impactstory.org/u/0000-0002-8082-1890"
     
   #[[params.social]]
   #  icon = "orcid"
@@ -338,7 +338,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "CV"
   url = "files/cv.pdf"
-  weight = 6
+  weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
