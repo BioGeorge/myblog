@@ -30,6 +30,6 @@ weight = 5
  
 +++
 
-# Background
+# Biography
 
 I am a PhD candidate student of Crop Science at the Zhejiang University Crop Science Lab. My research interests include *Brassica napus* evolution & population genetics, bioinformatics and Python&R program.
