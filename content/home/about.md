@@ -20,7 +20,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD Candidate in Crop Science"
+  course = "PhD Candidate in Crop Genetics and Breeding"
   institution = "Zhejiang University"
   year = 2016
 [[education.courses]]
