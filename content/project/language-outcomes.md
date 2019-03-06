@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
-caption = ""
+image = "tidyverse-pipeline.png"
+caption = "test"
 
 +++
 
