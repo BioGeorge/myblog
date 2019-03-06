@@ -13,7 +13,7 @@ title = "Tao Yan"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Tao Yan 2019"
+copyright = "&copy; Tao Yan 2018"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -63,7 +63,6 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-
   # Details for the Contact Widget
   email = "tyan@zju.edu.cn"
   address = "Building A Room 369, Zhejiang University (ZJG Campus), Hangzhou, 310058, China"
@@ -73,7 +72,6 @@ enableGitInfo = false
   skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
-
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
   #   discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
@@ -113,7 +111,7 @@ enableGitInfo = false
   description = ""
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = "portrait.jpg"
+   sharing_image = "portrait.jpg"
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
   twitter = "TaoYANLogos"
@@ -168,7 +166,7 @@ enableGitInfo = false
   #   https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
   highlight = true
   highlight_languages = ["R","Python","Shell"]
-  highlight_style = "github"
+  # highlight_style = "github"
 
   # Enable native social sharing buttons?
   sharing = true
@@ -314,21 +312,16 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-#[[menu.main]]
- #name = "Bio"
-  #url = "/bio/"
-  #weight = 2
+[[menu.main]]
+  name = "Bio"
+  url = "/bio/"
+  weight = 2
 
 [[menu.main]]
   name = "Blog"
   url = "#posts"
   weight = 3
-  
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
-  
+
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
@@ -338,11 +331,6 @@ enableGitInfo = false
   name = "Contact"
   url = "#contact"
   weight = 5
- 
-[[menu.main]]
-  name = "CV"
-  url = "files/cv.pdf"
-  weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
