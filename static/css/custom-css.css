@@ -142,6 +142,6 @@ a.badge-github:hover {
 
 @media screen and (max-width: 768px) {
   .media.stream-item img {
-    max-width: 600px;
+    max-width: 450px;
   }
 }
