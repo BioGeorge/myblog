@@ -116,12 +116,3 @@ a.badge-github:hover {
   color: #fff;
 }
 
-
-
-#add by taoyan
-
-@media screen and (max-width: 1200px) {
-  .media.stream-item img {
-    max-width: 600px;
-  }
-}
