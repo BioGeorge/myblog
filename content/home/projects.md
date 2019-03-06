@@ -1,8 +1,8 @@
 +++
 # Projects widget.
 widget = "projects"
-active = false
-date = 2016-04-20T00:00:00
+active = true
+date = 2019-01-02T00:00:00
 
 title = "Projects"
 subtitle = ""
@@ -41,8 +41,20 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = "Deep Learning"
+  name = "Market Reports"
+  tag = "market-report"
+
+[[filter]]
+  name = "Royalties"
+  tag = "royalties"
+
+[[filter]]
+  name = "Pricing"
+  tag = "pricing"
+  
+[[filter]]
+  name = "R"
+  tag = "R"
 
 [[filter]]
   name = "Other"
