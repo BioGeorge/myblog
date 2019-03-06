@@ -115,3 +115,9 @@ a.badge-github:focus,
 a.badge-github:hover {
   color: #fff;
 }
+
+#add by taoyan
+
+.reveal span.mjx-chtml {
+  max-width: 600px
+}
