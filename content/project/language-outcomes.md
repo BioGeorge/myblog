@@ -24,7 +24,7 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "tidyverse-pipeline.png"
-caption = "test"
+caption = ""
 
 +++
 
